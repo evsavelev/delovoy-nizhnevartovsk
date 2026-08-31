@@ -1,0 +1,1 @@
+Images in this folder are JPEG files used directly by the site. The old sprite is no longer used.
