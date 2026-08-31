@@ -1,0 +1,1 @@
+Final client build uses individual optimized images; sprite removal in progress.
